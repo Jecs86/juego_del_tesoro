@@ -20,8 +20,7 @@ El juego fue diseñado para ejecutarse bajo el entorno MARS 4.5, un simulador de
 
 ## Pasos para la ejecución
 1.	Abrir MARS
-2.	Cargar todos los archivos .asm de la carpeta src
-3.	Verificar que la opción “Assemble all files in directory” esté desactivada
-4.	Seleccionar main.asm
+2.	Cargar el archivo main.asm de la carpeta src/
+3.	Verificar que la opción “Assemble all files in directory” esté activada
 5.	Ensamblar el proyecto
 6.	Ejecutar con Go
